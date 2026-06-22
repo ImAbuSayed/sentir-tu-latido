@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sentir-tu-latido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Sentir tu latido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sentir-tu-latido/) |
+| **Get License** | [Obtain a Music License for Sentir tu latido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sentir-tu-latido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4066)
 
 ---
 
