@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sentir tu latido
+
+This log tracks the cryptographic history and versioning for the song **Sentir tu latido** (sentir-tu-latido).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T22:01:29.093310 | `v1` | `f5c438a9616cf387987f325c99bc69f75b06d10a69b75c973a16d23bd694c9ab` | `23084ea1b67b402886396673aa1613925c2b09171708452cf1753da94374e40d` | `2026-06-22_sentir-tu-latido-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
