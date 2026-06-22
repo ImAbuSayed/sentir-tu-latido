@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sentir-tu-latido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Sentir tu latido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sentir-tu-latido/) |
+| **Get License** | [Obtain a Music License for Sentir tu latido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sentir-tu-latido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Mami, la noche se hizo para los dos
+> Deja que el bajo controle tu voz
+> Quiero perderme en tu fuego encendido
+> Acércate y hazme sentir tu latido
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
